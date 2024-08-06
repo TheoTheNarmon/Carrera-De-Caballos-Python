@@ -2,7 +2,7 @@ import threading
 import time
 import random
 
-#///
+#/// Preferencias
 delay = 0.25
 cant_caballos = 10
 metros = 100
